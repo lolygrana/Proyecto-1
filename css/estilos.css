@@ -541,6 +541,10 @@ p{
     width: 150px;
 }
 /* animacion al nav */
+a:hover{
+    transform: rotate(-10deg);
+}
+
 
 
 
@@ -697,7 +701,6 @@ label{
 }
 
 #contenido5{
-
     background-image: url(../media/foto\ del\ header\ mas\ oscura.jpg);
     background-position: center;
 } 
