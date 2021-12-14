@@ -2,9 +2,13 @@
     margin: 0;
     padding: 0;
 }
+.bodypages{
+    background-color: black;
+}
 
 /* para celular */
 @media /* Mobile Styles */ only screen and (max-width: 576px) {
+
     .contenido{
         padding-top: 254px;
         padding-bottom: 41px;
